@@ -4,7 +4,7 @@ This project analyzes employee salary credit dates over multiple years and predi
 
 # Salary Analytics & Forecasting Web App
 
-[**Try it live on Hugging Face Spaces →**](https://yatin1106-salaryforecasting.hf.space/)
+[**Try it live →**](https://yatin1106-salaryforecasting.hf.space/)
 
 ---
 
