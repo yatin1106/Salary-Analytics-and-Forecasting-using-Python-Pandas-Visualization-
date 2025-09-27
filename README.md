@@ -4,7 +4,7 @@ This project analyzes employee salary credit dates over multiple years and predi
 
 # Salary Analytics & Forecasting Web App
 
-[**Try it live on Hugging Face Spaces →**](https://huggingface.co/spaces/yatin1106/salaryforecasting)
+[**Try it live on Hugging Face Spaces →**](https://yatin1106-salaryforecasting.hf.space/)
 
 ---
 
@@ -52,8 +52,7 @@ This web app is designed for HR, payroll, and finance teams in companies of any 
    * `Account_Number` (unique for each employee)
    * `Salary_Credit_Date`
 
-2. Open the [web app](https://huggingface.co/spaces/yatin1106/salaryforecasting).
-
+2. Open the [web app](https://yatin1106-salaryforecasting.hf.space/)
 3. Upload your CSV files.
 
 4. Click **Run Analysis** to see:
